@@ -21,7 +21,6 @@
         <a href="https://github.com/kevinpiedrahita97"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="50px" alt="Github"></a> &nbsp; &nbsp;
         <!-- linkedin -->
         <a href="https://https://www.linkedin.com/in/kevin-piedrahita-008b93186/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
-    
     </p>
 
 </div>
