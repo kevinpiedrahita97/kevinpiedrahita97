@@ -15,8 +15,6 @@
 <!-- Contact me -->
 <div align="Left">
      <p align="left">
-        <!-- gmail-->
-        <a href="kevinpiedrahita20@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="50px" alt="e-mail"></a> &nbsp; &nbsp;
         <!-- github -->
         <a href="https://github.com/kevinpiedrahita97"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="50px" alt="Github"></a> &nbsp; &nbsp;
         <!-- linkedin -->
