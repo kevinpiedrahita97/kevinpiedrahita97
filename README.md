@@ -1,4 +1,4 @@
-##  👋 Hi, I'm Kevin Piedrahita FullStack Software Developer 💻
+##  👋 Hi, I'm Kevin Piedrahita FullStack Software Developer 💻 and Cybersecurity..
 <div>
     <a href="https://www.linkedin.com/in/kevin-piedrahita-008b93186/" target="_blank"> 
     <img src="assets/Readme.gif" width="900" class="responsive"/>
