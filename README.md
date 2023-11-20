@@ -1,7 +1,7 @@
 ##  👋 Hi, I'm Kevin Piedrahita FullStack Software Developer 💻 and Cybersecurity.. and I am an enthusiast of hacking and cybersecurity, and I am a Jr pentester in the process of becoming a certificate professional.
 - 👀 I'm interested in ethical hacking content and tools, especially website hacking.
 - 🌱 I’m currently learning hacking Active Directory
-- 💞️ I would like to collaborate on some automated tool for ethical hacking, especially for Windows attacks.
+- 💞️I would like to collaborate on an automated tool for ethical hacking, especially for Windows attacks. Also participate in web development projects.
 <p># 👺 Experience
 
 ⚔️ __I hack your stuff so you have better security__
